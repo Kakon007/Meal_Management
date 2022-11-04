@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383591832811",
+    "project_id": "meal-management-b0628",
+    "storage_bucket": "meal-management-b0628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383591832811:android:471767d53feeb002c9f2ae",
+        "android_client_info": {
+          "package_name": "com.example.meal_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383591832811-vcacp6qibp6t4pcgk44ceueeq612fajc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwiCkOiQPpn7FnCfBTJhCxbToiVJBjByc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383591832811-vcacp6qibp6t4pcgk44ceueeq612fajc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
