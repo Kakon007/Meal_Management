@@ -4,7 +4,6 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:meal_management/Home/view/home.dart';
 
 import 'auth/view/sign_in_with_email_pass.dart';
-import 'insert_info/view/insert_meal_info.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -25,7 +24,7 @@ class MyApp extends StatelessWidget {
           Theme.of(context).textTheme,
         ),
       ),
-      home: const MealInfoscreen(),
+      home: const SignInWithEmailPass(),
     );
   }
 }
